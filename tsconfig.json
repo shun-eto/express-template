@@ -1,5 +1,4 @@
 {
-  "extends": "./config/tsconfig.alias.json",
   "compilerOptions": {
     "sourceMap": true,
     "target": "es2020",
